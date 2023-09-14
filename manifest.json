@@ -1,7 +1,7 @@
 {
     "name": "mypwa",
     "short_name": "praktika",
-    "start_url": "/main.html",
+    "start_url": ".",
     "lang": "ru",
     "display": "standalone",
     "icons": [
