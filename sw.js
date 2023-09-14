@@ -1,7 +1,7 @@
 const staticCacheName = 's-app-v1'
 
 const assetUrls = [
-    'main.html',
+    'index.html',
     'str1.html',
     'str2.html',
     'app.js',
